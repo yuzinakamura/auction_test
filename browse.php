@@ -3,6 +3,8 @@
 
 <div class="container">
 
+<p>Hi! I'm new!</p>
+
 <h2 class="my-3">Browse listings</h2>
 
 <div id="searchSpecs">
